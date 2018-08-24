@@ -772,7 +772,11 @@ release\mainwindow.obj: mainwindow.cpp mainwindow.h \
 		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtWidgets\qframe.h \
 		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtWidgets\QProgressDialog \
 		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtWidgets\qprogressdialog.h \
-		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtCore\QDebug
+		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtCore\QDebug \
+		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtWidgets\QFileDialog \
+		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtWidgets\qfiledialog.h \
+		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtCore\qdir.h \
+		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtCore\qfileinfo.h
 
 release\dialog_showlist.obj: dialog_showlist.cpp dialog_showlist.h \
 		..\..\..\Qt\Qt5.6.3\5.6.3\msvc2013\include\QtWidgets\QDialog \

@@ -17,14 +17,17 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
-	
+    void openFile(QString &str);
 private slots:
 
     void on_Extract_pushButton_clicked();
     void on_ShowList_pushButton_clicked();
     void on_Comp_pushButton_clicked();
     void displayResult(const int,const int);
-	
+    void on_directory_Button_clicked();
+    void on_directory_Button_clicked_IN();
+    void on_file_pushButton_clicked();
+    void on_file_pushButton_clicked_IN();
 private:
     Ui::MainWindow *ui;
     ThreadGetSize *thread1;

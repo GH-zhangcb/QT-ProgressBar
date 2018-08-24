@@ -21,7 +21,7 @@ void Dialog_showlist::on_show_pushButton_clicked()
     map<wstring,int>filelist;
     CompressExtract showlist;
     const wstring DllName=L".\\7z.dll";
-    const wstring archivename=ui->show_lineEdit->text().toStdWString();
+	const wstring archivename = ui->show_lineEdit->text().replace("/", "\\").toStdWString();
     showlist.ShowArchivefileList(archivename,filelist,DllName);
     auto filelist_iter=filelist.begin();
     while(filelist_iter!=filelist.end())

@@ -17,27 +17,27 @@
    <widget class="QLabel" name="In_label">
     <property name="geometry">
      <rect>
-      <x>23</x>
+      <x>40</x>
       <y>40</y>
-      <width>101</width>
+      <width>51</width>
       <height>20</height>
      </rect>
     </property>
     <property name="text">
-     <string>Compress/Extract:</string>
+     <string>打包文件:</string>
     </property>
    </widget>
    <widget class="QLabel" name="out_label">
     <property name="geometry">
      <rect>
-      <x>20</x>
+      <x>10</x>
       <y>90</y>
-      <width>91</width>
+      <width>81</width>
       <height>20</height>
      </rect>
     </property>
     <property name="text">
-     <string>To Where:</string>
+     <string>压缩/解压路径:</string>
     </property>
    </widget>
    <widget class="QPushButton" name="Extract_pushButton">
@@ -56,9 +56,9 @@
    <widget class="QLineEdit" name="in_lineEdit">
     <property name="geometry">
      <rect>
-      <x>140</x>
+      <x>100</x>
       <y>40</y>
-      <width>281</width>
+      <width>261</width>
       <height>21</height>
      </rect>
     </property>
@@ -66,9 +66,9 @@
    <widget class="QLineEdit" name="out_lineEdit">
     <property name="geometry">
      <rect>
-      <x>140</x>
+      <x>100</x>
       <y>90</y>
-      <width>281</width>
+      <width>261</width>
       <height>21</height>
      </rect>
     </property>
@@ -110,6 +110,58 @@
     </property>
     <property name="value">
      <number>0</number>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="directory_Button">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>90</y>
+      <width>41</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>目录</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="file_pushButton">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>90</y>
+      <width>41</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>文件</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="file_pushButton_IN">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>40</y>
+      <width>41</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>文件</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="directory_Button_IN">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>40</y>
+      <width>41</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>目录</string>
     </property>
    </widget>
   </widget>

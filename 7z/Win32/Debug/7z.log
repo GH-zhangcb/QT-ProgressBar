@@ -1,42 +1,21 @@
-﻿生成启动时间为 2018/8/3 16:59:44。
-     1>项目“D:\QtProject\7z\7z\7z.vcxproj”在节点 2 上(Rebuild 个目标)。
+﻿生成启动时间为 2018/8/13 10:28:43。
+     1>项目“D:\QtProject\7z\7z\7z.vcxproj”在节点 2 上(Build 个目标)。
      1>QtMoc:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp3d07882bfdea4922853b4b1dda47b6b8.cmd"
-         echo Moc'ing dialog_showlist.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\dialog_showlist.h" -o ".\GeneratedFiles\Debug\moc_dialog_showlist.cpp" "-I.\GeneratedFiles\Debug" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Debug\qt.txt"
-       QtMoc:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp47032cbbc97a4305b99778b5b86c9535.cmd"
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp827b090f2c504ccba56d994ebe65d269.cmd"
          echo Moc'ing mainwindow.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\mainwindow.h" -o ".\GeneratedFiles\Debug\moc_mainwindow.cpp" "-I.\GeneratedFiles\Debug" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Debug\qt.txt"
-       QtMoc:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp288174ddf872440d81f15c844d0d8a5c.cmd"
-         echo Moc'ing mythread.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\mythread.h" -o ".\GeneratedFiles\Debug\moc_mythread.cpp" "-I.\GeneratedFiles\Debug" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Debug\qt.txt"
-       QtMoc:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp64a02f2c4a8d4f74b9462cf6d78d57b8.cmd"
-         echo Moc'ing threadgetsize.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\threadgetsize.h" -o ".\GeneratedFiles\Debug\moc_threadgetsize.cpp" "-I.\GeneratedFiles\Debug" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Debug\qt.txt"
        QtUic:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmpf5a19d6977b54f20a90ee3e61777336c.cmd"
-         echo Uic'ing dialog_showlist.ui...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\uic.exe;"D:\QtProject\7z\7z\dialog_showlist.ui" -o ".\GeneratedFiles\ui_dialog_showlist.h"  >> "D:\QtProject\7z\7z\Win32\Debug\qt.txt"
-       QtUic:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmpec150d2e035a42eba036e3d310577403.cmd"
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp84d87cbcc9394e559f826366e15d1288.cmd"
          echo Uic'ing mainwindow.ui...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\uic.exe;"D:\QtProject\7z\7z\mainwindow.ui" -o ".\GeneratedFiles\ui_mainwindow.h"  >> "D:\QtProject\7z\7z\Win32\Debug\qt.txt"
        QtFinalize:
-         Moc'ing dialog_showlist.h...
          Moc'ing mainwindow.h...
-         Moc'ing mythread.h...
-         Moc'ing threadgetsize.h...
-         Uic'ing dialog_showlist.ui...
          Uic'ing mainwindow.ui...
        ClCompile:
-         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Debug /I.\GeneratedFiles /I. /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtWidgets /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtGui /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtANGLE /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtCore /Idebug /I"..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\mkspecs\win32-msvc2013" /Zi /nologo /W3 /WX- /MP /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 dialog_showlist.cpp main.cpp mainwindow.cpp mythread.cpp threadgetsize.cpp
+         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Debug /I.\GeneratedFiles /I. /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtWidgets /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtGui /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtANGLE /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtCore /Idebug /I"..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\mkspecs\win32-msvc2013" /Zi /nologo /W3 /WX- /MP /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 dialog_showlist.cpp main.cpp mainwindow.cpp
          dialog_showlist.cpp
          main.cpp
          mainwindow.cpp
-         mythread.cpp
-         threadgetsize.cpp
-         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Debug /I.\GeneratedFiles /I"D:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" /I. /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore /Zi /nologo /W3 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _MSC_VER=1800 /D _WIN32 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 .\GeneratedFiles\Debug\moc_dialog_showlist.cpp .\GeneratedFiles\Debug\moc_mainwindow.cpp .\GeneratedFiles\Debug\moc_mythread.cpp .\GeneratedFiles\Debug\moc_threadgetsize.cpp
-         moc_dialog_showlist.cpp
+         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Debug /I.\GeneratedFiles /I"D:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" /I. /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore /Zi /nologo /W3 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _MSC_VER=1800 /D _WIN32 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 .\GeneratedFiles\Debug\moc_mainwindow.cpp
          moc_mainwindow.cpp
-         moc_mythread.cpp
-         moc_threadgetsize.cpp
        Link:
          F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"debug\\7z.exe" /NOLOGO /LIBPATH:D:\QT\QT5.6.3\5.6.3\MSVC2013\lib /LIBPATH:C:\Utils\my_sql\my_sqlx86\lib /LIBPATH:C:\Utils\postgresqlx86\pgsql\lib /LIBPATH:D:\Qt\Qt5.6.3\5.6.3\msvc2013\lib /LIBPATH:. D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\qtmaind.lib shell32.lib .\my7z.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Widgetsd.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Guid.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"debug\7z.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" Win32\Debug\dialog_showlist.obj
          Win32\Debug\main.obj
@@ -48,9 +27,19 @@
          Win32\Debug\moc_mythread.obj
          Win32\Debug\moc_threadgetsize.obj
      1>my7z.lib(CompExtrAPI.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+     1>my7z.lib(FileStreams.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(IntToString.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(MyString.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(FileDir.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(FileFind.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(FileIO.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(FileName.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(PropVariant.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(PropVariantConv.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+     1>my7z.lib(CompExtrAPI.obj) : warning LNK4204: “D:\QtProject\7z\7z\debug\vc120.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
          7z.vcxproj -> D:\QtProject\7z\7z\debug\7z.exe
-     1>已完成生成项目“D:\QtProject\7z\7z\7z.vcxproj”(Rebuild 个目标)的操作。
+     1>已完成生成项目“D:\QtProject\7z\7z\7z.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:07.53
+已用时间 00:00:08.23

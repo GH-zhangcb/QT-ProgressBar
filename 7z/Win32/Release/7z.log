@@ -1,33 +1,61 @@
-﻿生成启动时间为 2018/7/25 17:07:19。
+﻿生成启动时间为 2018/8/8 10:35:25。
      1>项目“D:\QtProject\7z\7z\7z.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>QtMoc:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp5303d9b620ab43b79e0e0563f85a0ea5.cmd"
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp22ccef7c993c4010a028a6d37fd505a8.cmd"
+         echo Moc'ing dialog_showlist.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\dialog_showlist.h" -o ".\GeneratedFiles\Release\moc_dialog_showlist.cpp" "-I.\GeneratedFiles\Release" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Release\qt.txt"
+       QtMoc:
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmpdf8735b6032f4618bd94da9e23058821.cmd"
          echo Moc'ing mainwindow.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\mainwindow.h" -o ".\GeneratedFiles\Release\moc_mainwindow.cpp" "-I.\GeneratedFiles\Release" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Release\qt.txt"
+       QtMoc:
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmpbb0d2216c5f6423fad0d9ab49b84b1e7.cmd"
+         echo Moc'ing mythread.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\mythread.h" -o ".\GeneratedFiles\Release\moc_mythread.cpp" "-I.\GeneratedFiles\Release" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Release\qt.txt"
+       QtMoc:
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmpe287faab10b443ba9a39ed0d44b5196c.cmd"
+         echo Moc'ing threadgetsize.h...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\moc.exe;"D:\QtProject\7z\7z\threadgetsize.h" -o ".\GeneratedFiles\Release\moc_threadgetsize.cpp" "-I.\GeneratedFiles\Release" "-I.\GeneratedFiles" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" "-I." "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE" "-ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore" -DUNICODE -DWIN32 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -D_MSC_VER=1800 -D_WIN32  >> "D:\QtProject\7z\7z\Win32\Release\qt.txt"
        QtUic:
-         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmpa07d2f44fe2d4b5587e0823f00162743.cmd"
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmp64691ad91caa49ac94ac06c73c038256.cmd"
+         echo Uic'ing dialog_showlist.ui...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\uic.exe;"D:\QtProject\7z\7z\dialog_showlist.ui" -o ".\GeneratedFiles\ui_dialog_showlist.h"  >> "D:\QtProject\7z\7z\Win32\Release\qt.txt"
+       QtUic:
+         cmd.exe /C "C:\Users\zhangcb-a\AppData\Local\Temp\tmpe879c7b2f2624b8ba2b7ac427a894de4.cmd"
          echo Uic'ing mainwindow.ui...;D:\QT\QT5.6.3\5.6.3\MSVC2013\bin\uic.exe;"D:\QtProject\7z\7z\mainwindow.ui" -o ".\GeneratedFiles\ui_mainwindow.h"  >> "D:\QtProject\7z\7z\Win32\Release\qt.txt"
        QtFinalize:
+         Moc'ing dialog_showlist.h...
          Moc'ing mainwindow.h...
+         Moc'ing mythread.h...
+         Moc'ing threadgetsize.h...
+         Uic'ing dialog_showlist.ui...
          Uic'ing mainwindow.ui...
        ClCompile:
-         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Release /I.\GeneratedFiles /I. /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtWidgets /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtGui /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtANGLE /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtCore /Irelease /I"..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\mkspecs\win32-msvc2013" /nologo /W3 /WX- /MP /O2 /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_NO_DEBUG /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D NDEBUG /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Release\\" /Fd"Win32\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -Zc:strictStrings -w34100 -w34189 -w44996 main.cpp mainwindow.cpp
+         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Release /I.\GeneratedFiles /I. /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtWidgets /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtGui /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtANGLE /I..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\include\QtCore /Irelease /I"..\..\..\QT\QT5.6.3\5.6.3\MSVC2013\mkspecs\win32-msvc2013" /nologo /W3 /WX- /MP /O2 /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_NO_DEBUG /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D NDEBUG /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Release\\" /Fd"Win32\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -Zc:strictStrings -w34100 -w34189 -w44996 dialog_showlist.cpp main.cpp mainwindow.cpp mythread.cpp threadgetsize.cpp
+         dialog_showlist.cpp
          main.cpp
          mainwindow.cpp
-         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Release /I.\GeneratedFiles /I"D:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" /I. /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore /nologo /W3 /WX- /MP /O2 /Oy- /D UNICODE /D WIN32 /D QT_NO_DEBUG /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _MSC_VER=1800 /D _WIN32 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Release\\" /Fd"Win32\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -Zc:strictStrings -w34100 -w34189 -w44996 .\GeneratedFiles\Release\moc_mainwindow.cpp
+         mythread.cpp
+         threadgetsize.cpp
+         F:\VS\VC\bin\CL.exe /c /I.\GeneratedFiles\Release /I.\GeneratedFiles /I"D:/QT/QT5.6.3/5.6.3/MSVC2013/mkspecs/win32-msvc2013" /I. /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtWidgets /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtGui /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtANGLE /ID:/QT/QT5.6.3/5.6.3/MSVC2013/include/QtCore /nologo /W3 /WX- /MP /O2 /Oy- /D UNICODE /D WIN32 /D QT_NO_DEBUG /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D _MSC_VER=1800 /D _WIN32 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Release\\" /Fd"Win32\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -Zc:strictStrings -w34100 -w34189 -w44996 .\GeneratedFiles\Release\moc_dialog_showlist.cpp .\GeneratedFiles\Release\moc_mainwindow.cpp .\GeneratedFiles\Release\moc_mythread.cpp .\GeneratedFiles\Release\moc_threadgetsize.cpp
+         moc_dialog_showlist.cpp
          moc_mainwindow.cpp
+         moc_mythread.cpp
+         moc_threadgetsize.cpp
        Link:
-         F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"release\\7z.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\QT\QT5.6.3\5.6.3\MSVC2013\lib /LIBPATH:C:\Utils\my_sql\my_sqlx86\lib /LIBPATH:C:\Utils\postgresqlx86\pgsql\lib /LIBPATH:D:\Qt\Qt5.6.3\5.6.3\msvc2013\lib /LIBPATH:"F:F:\My7z-new\my7z\Debug" D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\qtmain.lib shell32.lib my7z.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Widgets.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Gui.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Core.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"release\7z.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" Win32\Release\main.obj
+         F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"release\\7z.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\QT\QT5.6.3\5.6.3\MSVC2013\lib /LIBPATH:C:\Utils\my_sql\my_sqlx86\lib /LIBPATH:C:\Utils\postgresqlx86\pgsql\lib /LIBPATH:D:\Qt\Qt5.6.3\5.6.3\msvc2013\lib /LIBPATH:. D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\qtmain.lib shell32.lib .\my7z.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Widgets.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Gui.lib D:\QT\QT5.6.3\5.6.3\MSVC2013\lib\Qt5Core.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"release\7z.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" Win32\Release\dialog_showlist.obj
+         Win32\Release\main.obj
          Win32\Release\mainwindow.obj
+         Win32\Release\mythread.obj
+         Win32\Release\threadgetsize.obj
+         Win32\Release\moc_dialog_showlist.obj
          Win32\Release\moc_mainwindow.obj
-     1>my7z.lib(CompExtrAPI.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“2”不匹配值“0”(main.obj 中)
-     1>my7z.lib(CompExtrAPI.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+         Win32\Release\moc_mythread.obj
+         Win32\Release\moc_threadgetsize.obj
+     1>my7z.lib(CompExtrAPI.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“2”不匹配值“0”(dialog_showlist.obj 中)
+     1>my7z.lib(CompExtrAPI.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(dialog_showlist.obj 中)
      1>my7z.lib(CompExtrAPI.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
-     1>my7z.lib(FileIO.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“2”不匹配值“0”(main.obj 中)
-     1>my7z.lib(FileIO.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(main.obj 中)
+     1>my7z.lib(FileIO.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项:  值“2”不匹配值“0”(dialog_showlist.obj 中)
+     1>my7z.lib(FileIO.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项:  值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(dialog_showlist.obj 中)
      1>LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
      1>release\\7z.exe : fatal error LNK1319: 检测到 4 个不匹配项
      1>已完成生成项目“D:\QtProject\7z\7z\7z.vcxproj”(Rebuild 个目标)的操作 - 失败。
 
 生成失败。
 
-已用时间 00:00:03.05
+已用时间 00:00:13.46
