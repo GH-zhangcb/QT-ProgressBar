@@ -1,7 +1,9 @@
-/Debug/
-/debug/
-/release/
-/Release/
-/ipch/
-/Win32/
-
+Debug/
+debug/
+release/
+Release/
+ipch/
+Win32/
+*.suo
+*.sdf
+*.sln
